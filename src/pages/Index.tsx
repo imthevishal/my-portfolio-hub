@@ -20,7 +20,7 @@ const Index = () => {
       <ContactSection />
       
       <footer className="py-6 text-center text-muted-foreground border-t border-border">
-        <p>© 2024 VISHAL M. All rights reserved.</p>
+        <p>© 2025 VISHAL M. All rights reserved.</p>
       </footer>
     </div>
   );
