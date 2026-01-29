@@ -41,7 +41,7 @@ const Navbar = () => {
               </button>
             ))}
             <Button size="sm" className="ml-2" asChild>
-              <a href="#contact">
+              <a href="/vishal_m_resume.pdf" download="Vishal_M_Resume.pdf">
                 <Download className="w-4 h-4 mr-2" />
                 Resume
               </a>
@@ -72,7 +72,7 @@ const Navbar = () => {
             ))}
             <div className="px-4 pt-2">
               <Button size="sm" className="w-full" asChild>
-                <a href="#contact">
+                <a href="/vishal_m_resume.pdf" download="Vishal_M_Resume.pdf">
                   <Download className="w-4 h-4 mr-2" />
                   Resume
                 </a>
